@@ -12,8 +12,6 @@ for k in range (1,2):
     plt.show()
     plt.imshow(styleImage/256)
     plt.show()
-    #contentImage = scipy.misc.imread("./examples/content_1.jpg").astype(np.float)
-    #styleImage = scipy.misc.imread("./examples/style_1.jpg").astype(np.float)
     #contentLayerNames = ['relu4_2']
     #styleLayerNames = ['relu1_1', 'relu2_1', 'relu3_1', 'relu4_1', 'relu5_1']
     #######################################################
